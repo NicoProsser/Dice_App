@@ -1,4 +1,4 @@
-# Dice_App
+# Dice App
 
 This is kinda my first project I did on multiple devices thus this repo is/was really nice
 
